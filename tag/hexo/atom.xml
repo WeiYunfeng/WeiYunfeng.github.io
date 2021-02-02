@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title>欢迎来到疯疯の神奇小窝 • Posts by &#34;hexo&#34; tag</title>
+    <link href="http://example.com" />
+    <updated>2021-02-02T08:27:39.000Z</updated>
+    <category term="Hexo" />
+    <entry>
+        <id>http://example.com/2021/02/02/a/</id>
+        <title>纪念第一个基于Hexo+Github的博客成立</title>
+        <link rel="alternate" href="http://example.com/2021/02/02/a/"/>
+        <content type="html">&lt;p&gt;you dian shuang a hahahhahhaha&lt;/p&gt;
+</content>
+        <category term="Hexo" />
+        <updated>2021-02-02T08:27:39.000Z</updated>
+    </entry>
+</feed>

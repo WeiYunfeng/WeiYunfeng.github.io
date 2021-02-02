@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>欢迎来到疯疯の神奇小窝 • Posts by &#34;hexo&#34; tag</title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 02 Feb 2021 16:27:39 +0800</pubDate>
+        <lastBuildDate>Tue, 02 Feb 2021 16:27:39 +0800</lastBuildDate>
+        <category>Hexo</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2021/02/02/a/</guid>
+            <title>纪念第一个基于Hexo+Github的博客成立</title>
+            <link>http://example.com/2021/02/02/a/</link>
+            <category>Hexo</category>
+            <pubDate>Tue, 02 Feb 2021 16:27:39 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;you dian shuang a hahahhahhaha&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

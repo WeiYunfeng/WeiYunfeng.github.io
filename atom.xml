@@ -4,11 +4,14 @@
     <title>欢迎来到疯疯の神奇小窝</title>
     <link href="http://example.com" />
     <updated>2021-02-02T08:27:39.000Z</updated>
+    <category term="Hexo" />
     <entry>
         <id>http://example.com/2021/02/02/a/</id>
-        <title>a</title>
+        <title>纪念第一个基于Hexo+Github的博客成立</title>
         <link rel="alternate" href="http://example.com/2021/02/02/a/"/>
-        <content type="html"></content>
+        <content type="html">&lt;p&gt;you dian shuang a hahahhahhaha&lt;/p&gt;
+</content>
+        <category term="Hexo" />
         <updated>2021-02-02T08:27:39.000Z</updated>
     </entry>
     <entry>
