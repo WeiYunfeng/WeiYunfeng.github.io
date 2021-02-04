@@ -29,7 +29,7 @@
 &lt;h3 id=&#34;环境安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#环境安装&#34;&gt;#&lt;/a&gt; 环境安装&lt;/h3&gt;
 &lt;h4 id=&#34;安装git&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装git&#34;&gt;#&lt;/a&gt; 安装 Git&lt;/h4&gt;
 &lt;p&gt;一路 Next 直到安装完毕，保持默认的选项&lt;/p&gt;
-&lt;h4 id=&#34;安装nodejs&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装nodejs&#34;&gt;#&lt;/a&gt; 安装 Nodejs&lt;/h4&gt;
+&lt;p&gt;#### 安装 Nodejs&lt;/p&gt;
 &lt;p&gt;一路 Next 直到安装完毕，保持默认的选项&lt;/p&gt;
 &lt;h3 id=&#34;初始化博客程序&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#初始化博客程序&#34;&gt;#&lt;/a&gt; 初始化博客程序&lt;/h3&gt;
 &lt;p&gt;####1. 打开 CMD&lt;/p&gt;
