@@ -8,7 +8,7 @@
         <pubDate>Thu, 04 Feb 2021 13:18:12 +0800</pubDate>
         <lastBuildDate>Thu, 04 Feb 2021 13:18:12 +0800</lastBuildDate>
         <category>搞黄色</category>
-        <category>调教日志</category>
+        <category>调教の日志</category>
         <item>
             <guid isPermalink="true">http://example.com/2021/02/04/%E6%90%9E%E9%BB%84%E8%89%B2/</guid>
             <title>搞黄色搞黄色，太君这边请</title>
@@ -21,9 +21,9 @@
         </item>
         <item>
             <guid isPermalink="true">http://example.com/2021/02/02/%E7%BA%AA%E5%BF%B5%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8EHexo+Github%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%88%90%E7%AB%8B/</guid>
-            <title>纪念第一个基于Hexo+Github的博客成立の调教日志</title>
+            <title>纪念成立第一个基于Hexo+Github的博客の调教日志</title>
             <link>http://example.com/2021/02/02/%E7%BA%AA%E5%BF%B5%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8EHexo+Github%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%88%90%E7%AB%8B/</link>
-            <category>调教日志</category>
+            <category>调教の日志</category>
             <pubDate>Tue, 02 Feb 2021 16:27:39 +0800</pubDate>
             <description><![CDATA[ &lt;hr /&gt;
 &lt;p&gt;为了这个小破站，脑壳都快秃了&lt;/p&gt;
@@ -34,7 +34,7 @@
 &lt;h3 id=&#34;环境安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#环境安装&#34;&gt;#&lt;/a&gt; 环境安装&lt;/h3&gt;
 &lt;h4 id=&#34;安装git&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装git&#34;&gt;#&lt;/a&gt; 安装 Git&lt;/h4&gt;
 &lt;p&gt;一路 Next 直到安装完毕，保持默认的选项&lt;/p&gt;
-&lt;p&gt;#### 安装 Nodejs&lt;/p&gt;
+&lt;h4 id=&#34;安装nodejs&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装nodejs&#34;&gt;#&lt;/a&gt; 安装 Nodejs&lt;/h4&gt;
 &lt;p&gt;一路 Next 直到安装完毕，保持默认的选项&lt;/p&gt;
 &lt;h3 id=&#34;初始化博客程序&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#初始化博客程序&#34;&gt;#&lt;/a&gt; 初始化博客程序&lt;/h3&gt;
 &lt;p&gt;1. 打开 CMD&lt;/p&gt;
@@ -59,7 +59,29 @@
 &lt;p&gt;💃💃💃💃💃💃&lt;/p&gt;
 &lt;p&gt;Let&#39;s	dance~ 呜呼～&lt;/p&gt;
 &lt;p&gt;💃💃💃💃💃💃&lt;/p&gt;
-&lt;p&gt;##2021/2/2&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;202122&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#202122&#34;&gt;#&lt;/a&gt; 2021/2/2&lt;/h2&gt;
+&lt;p&gt;昨天搞定了原站点的部署后，我一直觉得自带的站点太丑了😒&lt;/p&gt;
+&lt;p&gt;🔥由此，我的受苦受难之旅就开始了... 使用的是&lt;strong&gt; Ruri Shimotsuki&lt;/strong&gt; 大佬的	&lt;strong&gt;Shoka&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;修改主题配置文件_configyml内容&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#修改主题配置文件_configyml内容&#34;&gt;#&lt;/a&gt; 修改主题配置文件_config.yml 内容&lt;/h3&gt;
+&lt;h4 id=&#34;自动夜间模式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自动夜间模式&#34;&gt;#&lt;/a&gt; 自动夜间模式&lt;/h4&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;darkmode: &lt;span class=&#34;token boolean&#34;&gt;false&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h4 id=&#34;自动定位上次阅读位置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自动定位上次阅读位置&#34;&gt;#&lt;/a&gt; 自动定位上次阅读位置&lt;/h4&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;auto_scroll: &lt;span class=&#34;token boolean&#34;&gt;false&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h4 id=&#34;加载动画&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#加载动画&#34;&gt;#&lt;/a&gt; 加载动画&lt;/h4&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;loader:&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  start: &lt;span class=&#34;token boolean&#34;&gt;true&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;# When entering the page&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  switch: &lt;span class=&#34;token boolean&#34;&gt;false&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;# When switching to another page&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h4 id=&#34;点击烟花&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#点击烟花&#34;&gt;#&lt;/a&gt; 点击烟花&lt;/h4&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;fireworks:&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  enable: &lt;span class=&#34;token boolean&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  color:&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;# - &#34;rgba(255,182,185,.9)&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;# - &#34;rgba(250,227,217,.9)&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;# - &#34;rgba(187,222,214,.9)&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;# - &#34;rgba(138,198,209,.9)&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h4 id=&#34;氪金入口&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#氪金入口&#34;&gt;#&lt;/a&gt; 氪金入口&lt;/h4&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;reward:&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token comment&#34;&gt;# If true, reward will be displayed in every article by default.&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  enable: &lt;span class=&#34;token boolean&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  account:&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    wechatpay: /wechatpay.png&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    alipay: /alipay.png&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h4 id=&#34;字数统计及时间统计&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#字数统计及时间统计&#34;&gt;#&lt;/a&gt; 字数统计及时间统计&lt;/h4&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;footer:&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token comment&#34;&gt;# Specify the date when the site was setup. If not defined, current year will be used.&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  since: &lt;span class=&#34;token number&#34;&gt;2021&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  icon:&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    name: sakura rotate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;# Change the color of icon, using Hex Code.&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    color: &lt;span class=&#34;token string&#34;&gt;&#34;#ffc0cb&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token comment&#34;&gt;# Dependencies: https://github.com/theme-next/hexo-symbols-count-time&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  count: &lt;span class=&#34;token boolean&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  powered: &lt;span class=&#34;token boolean&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;post:&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token comment&#34;&gt;# Dependencies: https://github.com/theme-next/hexo-symbols-count-time&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  count: &lt;span class=&#34;token boolean&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;🏃🏃🏃🏃🏃🏃&lt;/p&gt;
+&lt;p&gt;🐶今天的摸鱼就到这边了哈哈哈哈哈哈🏃&lt;/p&gt;
+&lt;p&gt;🏃🏃🏃🏃🏃🏃&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;202124&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#202124&#34;&gt;#&lt;/a&gt; 2021/2/4&lt;/h2&gt;
+&lt;p&gt;其实一直在考虑一件事情，到底要不要把所有图片和代码一起上传到 Github 上，如果分开来放，哪天 OSS 存储不续费了，那恐怕我的所有图片就都​会 G​G👻了&lt;/p&gt;
+&lt;p&gt;但是阿里云的 OSS 对象存储包月是真的爽啊，1 年才 9 块钱&lt;/p&gt;
+&lt;p&gt;于是乎，45 块钱，一口气包下了 5 年，每月 40G 的资源量可用&lt;/p&gt;
+&lt;p&gt;💩能不能有富婆爱爱我啊​呜呜呜💰&lt;/p&gt;
+&lt;h3 id=&#34;增加了顶部导航栏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#增加了顶部导航栏&#34;&gt;#&lt;/a&gt; 增加了顶部导航栏&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;
+&lt;/code&gt;&lt;/pre&gt;
  ]]></description>
         </item>
         <item>

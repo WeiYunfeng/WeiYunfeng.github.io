@@ -1,19 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "欢迎来到疯疯の神奇小窝",
+    "title": "欢迎来到疯疯の神奇小窝 • All posts by \"调教の日志\" tag",
     "description": "",
     "home_page_url": "http://example.com",
     "items": [
-        {
-            "id": "http://example.com/2021/02/04/%E6%90%9E%E9%BB%84%E8%89%B2/",
-            "url": "http://example.com/2021/02/04/%E6%90%9E%E9%BB%84%E8%89%B2/",
-            "title": "搞黄色搞黄色，太君这边请",
-            "date_published": "2021-02-04T05:18:12.000Z",
-            "content_html": "<p>够涩嘛～</p>\n<p><img data-src=\"https://weiblogpic.oss-cn-shanghai.aliyuncs.com/img/download.jpg\" alt=\"\" /></p>\n",
-            "tags": [
-                "搞黄色"
-            ]
-        },
         {
             "id": "http://example.com/2021/02/02/%E7%BA%AA%E5%BF%B5%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8EHexo+Github%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%88%90%E7%AB%8B/",
             "url": "http://example.com/2021/02/02/%E7%BA%AA%E5%BF%B5%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8EHexo+Github%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%88%90%E7%AB%8B/",
@@ -23,14 +13,6 @@
             "tags": [
                 "调教の日志"
             ]
-        },
-        {
-            "id": "http://example.com/2021/02/01/hello-world/",
-            "url": "http://example.com/2021/02/01/hello-world/",
-            "title": "Hello World",
-            "date_published": "2021-02-01T08:32:09.460Z",
-            "content_html": "<p>Welcome ! This is my very first post.</p>\n<h2 id=\"quick-start\"><a class=\"anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo new <span class=\"token string\">\"My New Post\"</span></pre></td></tr></table></figure><h3 id=\"run-server\"><a class=\"anchor\" href=\"#run-server\">#</a> Run server</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo server</pre></td></tr></table></figure><h3 id=\"generate-static-files\"><a class=\"anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo generate</pre></td></tr></table></figure><h3 id=\"deploy-to-remote-sites\"><a class=\"anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo deploy</pre></td></tr></table></figure>",
-            "tags": []
         }
     ]
 }
