@@ -5,10 +5,27 @@
         <link>http://example.com</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Thu, 04 Feb 2021 13:18:12 +0800</pubDate>
-        <lastBuildDate>Thu, 04 Feb 2021 13:18:12 +0800</lastBuildDate>
+        <pubDate>Thu, 18 Feb 2021 14:32:12 +0800</pubDate>
+        <lastBuildDate>Thu, 18 Feb 2021 14:32:12 +0800</lastBuildDate>
         <category>搞黄色</category>
         <category>调教の日志</category>
+        <category>工作经历</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2021/02/18/Work-Experence/</guid>
+            <title>Work-Experence</title>
+            <link>http://example.com/2021/02/18/Work-Experence/</link>
+            <category>工作经历</category>
+            <pubDate>Thu, 18 Feb 2021 14:32:12 +0800</pubDate>
+            <description><![CDATA[ &lt;hr /&gt;
+&lt;p&gt;工作经历&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;2021/1/26	丽水职业技术学院 VPN	反代	（升级）&lt;/p&gt;
+&lt;p&gt;2021/1/28	平湖中医院	8.0-&amp;gt;9.7.8p4	（跨版本升级）&lt;/p&gt;
+&lt;p&gt;2021/1/29	温州大数据局	NMS 部署	（有线无线资源）&lt;/p&gt;
+&lt;p&gt;2021/2/12	无锡职业技术学院	反代对外发布访问策略不生效	（现象未能重现，未处理）&lt;/p&gt;
+&lt;p&gt;2021/2/18	整理江西和福建的客户远程方式&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2021/02/04/%E6%90%9E%E9%BB%84%E8%89%B2/</guid>
             <title>搞黄色搞黄色，太君这边请</title>
