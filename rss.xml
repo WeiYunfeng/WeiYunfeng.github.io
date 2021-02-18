@@ -1105,7 +1105,7 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;p&gt;当前版本更新至 0.2.5，&lt;a href=&#34;#%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95&#34;&gt;更新记录点此&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;note primary&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;/note/theme-shoka-doc/&#34;&gt;&lt;strong&gt;🚀快速开始&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/theme-shoka-doc/&#34;&gt;&lt;strong&gt;🚀快速开始&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;h1 id=&#34;设计缘由&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设计缘由&#34;&gt;#&lt;/a&gt; 设计缘由&lt;/h1&gt;
 &lt;p&gt;前几年在 Bear 和 Evernote 上整理了大量笔记，非常喜欢 Bear 默认的 markdown 渲染样式。&lt;br /&gt;
