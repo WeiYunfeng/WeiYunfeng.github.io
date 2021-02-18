@@ -4,16 +4,16 @@
     <title>欢迎来到疯疯の神奇小窝</title>
     <link href="http://example.com" />
     <updated>2021-02-18T06:32:12.000Z</updated>
-    <category term="搞黄色" />
     <category term="工作经历" />
+    <category term="搞黄色" />
     <category term="调教の日志" />
     <category term="小贴士" />
     <category term="Hexo" />
     <category term="教程" />
     <entry>
-        <id>http://example.com/2021/02/18/Work-Experence/</id>
+        <id>http://example.com/Work-Experence/</id>
         <title>Work-Experence</title>
-        <link rel="alternate" href="http://example.com/2021/02/18/Work-Experence/"/>
+        <link rel="alternate" href="http://example.com/Work-Experence/"/>
         <content type="html">&lt;hr /&gt;
 &lt;p&gt;工作经历&lt;/p&gt;
 &lt;hr /&gt;
@@ -27,9 +27,9 @@
         <updated>2021-02-18T06:32:12.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2021/02/04/%E6%90%9E%E9%BB%84%E8%89%B2/</id>
+        <id>http://example.com/%E6%90%9E%E9%BB%84%E8%89%B2/</id>
         <title>搞黄色搞黄色，太君这边请</title>
-        <link rel="alternate" href="http://example.com/2021/02/04/%E6%90%9E%E9%BB%84%E8%89%B2/"/>
+        <link rel="alternate" href="http://example.com/%E6%90%9E%E9%BB%84%E8%89%B2/"/>
         <content type="html">&lt;p&gt;够涩嘛～&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://weiblogpic.oss-cn-shanghai.aliyuncs.com/img/download.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </content>
@@ -37,9 +37,9 @@
         <updated>2021-02-04T05:18:12.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2021/02/02/%E7%BA%AA%E5%BF%B5%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8EHexo+Github%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%88%90%E7%AB%8B/</id>
+        <id>http://example.com/%E7%BA%AA%E5%BF%B5%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8EHexo+Github%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%88%90%E7%AB%8B/</id>
         <title>纪念成立第一个基于Hexo+Github的博客の调教日志</title>
-        <link rel="alternate" href="http://example.com/2021/02/02/%E7%BA%AA%E5%BF%B5%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8EHexo+Github%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%88%90%E7%AB%8B/"/>
+        <link rel="alternate" href="http://example.com/%E7%BA%AA%E5%BF%B5%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8EHexo+Github%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%88%90%E7%AB%8B/"/>
         <content type="html">&lt;hr /&gt;
 &lt;p&gt;为了这个小破站，脑壳都快秃了&lt;/p&gt;
 &lt;hr /&gt;
@@ -111,9 +111,9 @@
         <updated>2021-02-02T08:27:39.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2021/02/01/hello-world/</id>
+        <id>http://example.com/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="http://example.com/2021/02/01/hello-world/"/>
+        <link rel="alternate" href="http://example.com/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome ! This is my very first post.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
@@ -124,9 +124,9 @@
         <updated>2021-02-01T08:32:09.460Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2020/08/13/note/theme-shoka-doc/special/</id>
+        <id>http://example.com/note/theme-shoka-doc/special/</id>
         <title>Step.4 主题特殊功能</title>
-        <link rel="alternate" href="http://example.com/2020/08/13/note/theme-shoka-doc/special/"/>
+        <link rel="alternate" href="http://example.com/note/theme-shoka-doc/special/"/>
         <content type="html">&lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/note/theme-shoka-doc/&#34;&gt;&lt;strong&gt;🚀快速开始&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -687,9 +687,9 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
         <updated>2020-08-13T13:45:48.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2020/08/13/note/theme-shoka-doc/display/</id>
+        <id>http://example.com/note/theme-shoka-doc/display/</id>
         <title>Step.3 界面显示</title>
-        <link rel="alternate" href="http://example.com/2020/08/13/note/theme-shoka-doc/display/"/>
+        <link rel="alternate" href="http://example.com/note/theme-shoka-doc/display/"/>
         <content type="html">&lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/note/theme-shoka-doc/&#34;&gt;&lt;strong&gt;🚀快速开始&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -827,9 +827,9 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
         <updated>2020-08-13T13:12:48.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2020/08/13/note/theme-shoka-doc/config/</id>
+        <id>http://example.com/note/theme-shoka-doc/config/</id>
         <title>Step.2 基本配置</title>
-        <link rel="alternate" href="http://example.com/2020/08/13/note/theme-shoka-doc/config/"/>
+        <link rel="alternate" href="http://example.com/note/theme-shoka-doc/config/"/>
         <content type="html">&lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/note/theme-shoka-doc/&#34;&gt;&lt;strong&gt;🚀快速开始&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -987,9 +987,9 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
         <updated>2020-08-13T12:56:48.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2020/08/13/note/theme-shoka-doc/dependents/</id>
+        <id>http://example.com/note/theme-shoka-doc/dependents/</id>
         <title>Step.1 依赖插件</title>
-        <link rel="alternate" href="http://example.com/2020/08/13/note/theme-shoka-doc/dependents/"/>
+        <link rel="alternate" href="http://example.com/note/theme-shoka-doc/dependents/"/>
         <content type="html">&lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/note/theme-shoka-doc/&#34;&gt;&lt;strong&gt;🚀快速开始&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -1082,9 +1082,9 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
         <updated>2020-08-13T12:46:48.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2020/08/13/note/theme-shoka-doc/</id>
+        <id>http://example.com/note/theme-shoka-doc/</id>
         <title>Hexo主题Shoka &amp; multi-markdown-it渲染器使用说明</title>
-        <link rel="alternate" href="http://example.com/2020/08/13/note/theme-shoka-doc/"/>
+        <link rel="alternate" href="http://example.com/note/theme-shoka-doc/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;跳票 N 久终于更新的简单的使用说明&lt;/p&gt;
 &lt;ul&gt;
@@ -1098,7 +1098,7 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;p&gt;当前版本更新至 0.2.5，&lt;a href=&#34;#%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95&#34;&gt;更新记录点此&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;note primary&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;/theme-shoka-doc/&#34;&gt;&lt;strong&gt;🚀快速开始&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/note/theme-shoka-doc/&#34;&gt;&lt;strong&gt;🚀快速开始&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;h1 id=&#34;设计缘由&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设计缘由&#34;&gt;#&lt;/a&gt; 设计缘由&lt;/h1&gt;
 &lt;p&gt;前几年在 Bear 和 Evernote 上整理了大量笔记，非常喜欢 Bear 默认的 markdown 渲染样式。&lt;br /&gt;
