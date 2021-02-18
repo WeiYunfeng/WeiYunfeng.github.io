@@ -74,8 +74,17 @@
 &lt;p&gt;但是阿里云的 OSS 对象存储包月是真的爽啊，1 年才 9 块钱&lt;/p&gt;
 &lt;p&gt;于是乎，45 块钱，一口气包下了 5 年，每月 40G 的资源量可用&lt;/p&gt;
 &lt;p&gt;💩能不能有富婆爱爱我啊​呜呜呜💰&lt;/p&gt;
-&lt;h3 id=&#34;增加了顶部导航栏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#增加了顶部导航栏&#34;&gt;#&lt;/a&gt; 增加了顶部导航栏&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;
+&lt;h3 id=&#34;增加了顶部和侧边栏导航栏&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#增加了顶部和侧边栏导航栏&#34;&gt;#&lt;/a&gt; 增加了顶部和侧边栏导航栏&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;menu:
+  home: / || home
+  about: /about/ || user
+  posts:
+    default: / || feather
+    archives: /archives/ || list-alt
+    categories: /categories/ || th
+    tags: /tags/ || tags
+    friends: /friends/ || heart
+    links: /links/ || magic
 &lt;/code&gt;&lt;/pre&gt;
 </content>
         <category term="调教の日志" />
