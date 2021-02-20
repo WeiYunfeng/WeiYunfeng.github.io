@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>欢迎来到疯疯の神奇小窝 • Posts by &#34;工作经历&#34; tag</title>
-        <link>http://example.com</link>
+        <link>https://weiyunfeng.github.io</link>
         <description></description>
         <language>zh-CN</language>
         <pubDate>Thu, 18 Feb 2021 14:32:12 +0800</pubDate>
@@ -14,9 +14,9 @@
         <category>Hexo</category>
         <category>教程</category>
         <item>
-            <guid isPermalink="true">http://example.com/Work-Experence/</guid>
+            <guid isPermalink="true">https://weiyunfeng.github.io/Work-Experence/</guid>
             <title>Work-Experence</title>
-            <link>http://example.com/Work-Experence/</link>
+            <link>https://weiyunfeng.github.io/Work-Experence/</link>
             <category>工作经历</category>
             <pubDate>Thu, 18 Feb 2021 14:32:12 +0800</pubDate>
             <description><![CDATA[ &lt;hr /&gt;

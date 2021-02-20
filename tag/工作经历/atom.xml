@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://weiyunfeng.github.io</id>
     <title>欢迎来到疯疯の神奇小窝 • Posts by &#34;工作经历&#34; tag</title>
-    <link href="http://example.com" />
+    <link href="https://weiyunfeng.github.io" />
     <updated>2021-02-18T06:32:12.000Z</updated>
     <category term="工作经历" />
     <category term="搞黄色" />
@@ -11,9 +11,9 @@
     <category term="Hexo" />
     <category term="教程" />
     <entry>
-        <id>http://example.com/Work-Experence/</id>
+        <id>https://weiyunfeng.github.io/Work-Experence/</id>
         <title>Work-Experence</title>
-        <link rel="alternate" href="http://example.com/Work-Experence/"/>
+        <link rel="alternate" href="https://weiyunfeng.github.io/Work-Experence/"/>
         <content type="html">&lt;hr /&gt;
 &lt;p&gt;工作经历&lt;/p&gt;
 &lt;hr /&gt;
