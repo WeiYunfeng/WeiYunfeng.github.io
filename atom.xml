@@ -1085,13 +1085,13 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
         <id>https://weiyunfeng.github.io/note/theme-shoka-doc/</id>
         <title>Hexo主题Shoka &amp; multi-markdown-it渲染器使用说明</title>
         <link rel="alternate" href="https://weiyunfeng.github.io/note/theme-shoka-doc/"/>
-        <content type="html">&lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;跳票 N 久终于更新的简单的使用说明&lt;/p&gt;
+        <content type="html">&lt;p&gt;:::inf&lt;br /&gt;
+ 跳票 N 久终于更新的简单的使用说明&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt;hexo-theme-shoka&lt;/span&gt; ：本博客自用的主题&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by1yZW5kZXJlci1tdWx0aS1tYXJrZG93bi1pdA==&#34;&gt;hexo-renderer-multi-markdown-it&lt;/span&gt;：配套的 markdown 渲染器&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by1yZW5kZXJlci1tdWx0aS1tYXJrZG93bi1pdA==&#34;&gt;hexo-renderer-multi-markdown-it&lt;/span&gt;：配套的 markdown 渲染器&lt;br /&gt;
+:::&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;
 &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/note/theme-shoka-doc/&#34;&gt;&lt;strong&gt;🚀快速开始&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
