@@ -5,16 +5,6 @@
     "home_page_url": "https://weiyunfeng.github.io",
     "items": [
         {
-            "id": "https://weiyunfeng.github.io/Work-Experence/",
-            "url": "https://weiyunfeng.github.io/Work-Experence/",
-            "title": "Work-Experence",
-            "date_published": "2021-02-18T06:32:12.000Z",
-            "content_html": "<hr />\n<p>工作经历</p>\n<hr />\n<p>2021/1/26\t丽水职业技术学院 VPN\t反代\t（升级）</p>\n<p>2021/1/28\t平湖中医院\t8.0-&gt;9.7.8p4\t（跨版本升级）</p>\n<p>2021/1/29\t温州大数据局\tNMS 部署\t（有线无线资源）</p>\n<p>2021/2/12\t无锡职业技术学院\t反代对外发布访问策略不生效\t（现象未能重现，未处理）</p>\n<p>2021/2/18\t整理江西和福建的客户远程方式</p>\n",
-            "tags": [
-                "工作经历"
-            ]
-        },
-        {
             "id": "https://weiyunfeng.github.io/%E6%90%9E%E9%BB%84%E8%89%B2/",
             "url": "https://weiyunfeng.github.io/%E6%90%9E%E9%BB%84%E8%89%B2/",
             "title": "搞黄色搞黄色，太君这边请",
